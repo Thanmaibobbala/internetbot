@@ -193,7 +193,7 @@ screenshots/
 
 ## 👩‍💻 Author
 
-**Ashila Kosaraju**
+**Thanmai Bobbala**
 
 ---
 
