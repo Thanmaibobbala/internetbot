@@ -2,7 +2,6 @@ package pages;
 
 import base.BasePage;
 import org.openqa.selenium.*;
-
 public class CheckboxPage extends BasePage {
 
     public CheckboxPage(WebDriver driver) {
