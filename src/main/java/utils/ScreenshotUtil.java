@@ -3,7 +3,6 @@ package utils;
 import org.openqa.selenium.*;
 import org.apache.commons.io.FileUtils;
 import java.io.File;
-
 public class ScreenshotUtil {
 
     public static String capture(String name) {
