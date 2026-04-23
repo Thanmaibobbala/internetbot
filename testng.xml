@@ -13,5 +13,4 @@
             <class name="tests.DynamicTest"/>
         </classes>
     </test>
-
 </suite>
