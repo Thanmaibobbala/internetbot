@@ -1,5 +1,4 @@
 package tests;
-
 import org.testng.annotations.*;
 import org.testng.Assert;
 import pages.LoginPage;
