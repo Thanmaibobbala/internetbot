@@ -1,5 +1,4 @@
 package base;
-
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.*;
 import utils.ConfigReader;
